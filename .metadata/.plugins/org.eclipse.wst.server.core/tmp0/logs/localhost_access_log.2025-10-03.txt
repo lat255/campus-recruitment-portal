@@ -1,0 +1,13 @@
+127.0.0.1 - - [03/Oct/2025:23:30:16 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [03/Oct/2025:23:30:17 +0530] "GET /Portal/WEB-INF/classes/com/example/portal/DBUtil.java HTTP/1.1" 404 683
+0:0:0:0:0:0:0:1 - - [03/Oct/2025:23:30:17 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [03/Oct/2025:23:30:23 +0530] "GET /Portal/WEB-INF/classes/com/example/portal/DBUtil.java HTTP/1.1" 404 683
+0:0:0:0:0:0:0:1 - - [03/Oct/2025:23:30:25 +0530] "GET /Portal/WEB-INF/classes/com/example/portal/DBUtil.java HTTP/1.1" 404 683
+127.0.0.1 - - [03/Oct/2025:23:47:11 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [03/Oct/2025:23:47:12 +0530] "GET /Portal/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [03/Oct/2025:23:47:12 +0530] "GET /Portal/login.jsp HTTP/1.1" 404 740
+127.0.0.1 - - [03/Oct/2025:23:52:16 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [03/Oct/2025:23:52:17 +0530] "GET /Portal/WEB-INF/classes/com/example/portal/DBUtil.java HTTP/1.1" 404 683
+127.0.0.1 - - [03/Oct/2025:23:59:31 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [03/Oct/2025:23:59:43 +0530] "GET /Portal/login.jsp HTTP/1.1" 200 556
+0:0:0:0:0:0:0:1 - - [03/Oct/2025:23:59:43 +0530] "GET /Portal/css/style.css HTTP/1.1" 404 780

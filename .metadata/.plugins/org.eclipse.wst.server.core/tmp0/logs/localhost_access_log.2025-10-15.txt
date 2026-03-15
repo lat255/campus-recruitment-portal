@@ -1,0 +1,8 @@
+127.0.0.1 - - [15/Oct/2025:15:10:18 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [15/Oct/2025:15:10:19 +0530] "GET /Portal/login.jsp HTTP/1.1" 200 2158
+0:0:0:0:0:0:0:1 - - [15/Oct/2025:15:15:53 +0530] "GET /Portal/login.jsp HTTP/1.1" 200 2158
+0:0:0:0:0:0:0:1 - - [15/Oct/2025:15:16:09 +0530] "POST /Portal/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Oct/2025:15:16:09 +0530] "GET /Portal/recruiter.jsp HTTP/1.1" 200 6936
+0:0:0:0:0:0:0:1 - - [15/Oct/2025:15:16:09 +0530] "GET /Portal/css/style.css HTTP/1.1" 404 780
+0:0:0:0:0:0:0:1 - - [15/Oct/2025:15:17:13 +0530] "GET /Portal/viewApplications?jobId=5 HTTP/1.1" 200 3199
+0:0:0:0:0:0:0:1 - - [15/Oct/2025:15:17:18 +0530] "GET /Portal/uploads/1759684752804_Lathika_Resume_Fresher_BCA.docx HTTP/1.1" 304 -

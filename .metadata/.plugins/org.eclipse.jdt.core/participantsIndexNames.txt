@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+C:\campusportal\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\769756123.index
+\Portal\src\main\java
+C:\campusportal\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\352767613.index
+\Portal\src\main\java
+C:\campusportal\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\392210814.index
+\Portal\src\main\java
